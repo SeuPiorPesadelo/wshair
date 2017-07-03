@@ -10,6 +10,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.OneToOne;
 import com.google.gson.Gson;
 
+//Entidade
 @Entity
 public class Atendimento {
 
